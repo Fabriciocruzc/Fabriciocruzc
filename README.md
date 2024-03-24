@@ -20,3 +20,4 @@ Sou um desenvolvedor Full Stack, dedicado a oferecer soluções inovadoras e con
   <a href="https://www.instagram.com/fabriciocruz10/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
+![snake gif](https://github.com/fabriciocruzc/fabriciocuzc/blob/output/github-contribution-grid-snake.svg)
