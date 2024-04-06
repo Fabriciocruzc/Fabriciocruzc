@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor Full Stack, dedicado a oferecer soluções inovadoras e confiáveis. Com um conjunto diversificado de habilidades, estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento. 
 
-## Tecnologias🚀
+## My Stack🚀
 
 <div style="display: inline_block"><br>
   <img aling="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -12,7 +12,7 @@ Sou um desenvolvedor Full Stack, dedicado a oferecer soluções inovadoras e con
   <img aling="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> 
 </div>
 
-## Redes📱
+## Connect with me📱
 
 <div>
   <a href="https://www.linkedin.com/in/fabricio-cruz-987800160/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
